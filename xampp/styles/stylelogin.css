@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(../assets/Galaxy.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    color: white;
+    width: 420px;;
+    background: transparent;
+    border: 2px solid rgb(213, 212, 212);
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    padding: 30px 40px;
+    box-shadow: 0 0 10px;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.container .input-box{
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+    position: relative;
+}
+
+.container .input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(213, 212, 212);
+    border-radius: 40px;
+    color: white;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder{
+    color: white;
+}
+
+.input-box i{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.container .remember-forgot{
+    display: flex;
+    justify-content: space-between;
+    margin: -15px 0 15px;
+}
+
+.remember-forgot label input{
+    accent-color: white;
+    margin-right: 3px;
+}
+.remember-forgot a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.remember-forgot a:hover{
+    text-decoration: underline;
+}
+
+.login{
+    width: 100%;
+    height: 45px;
+    border-radius: 40px;
+    background: whitesmoke;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.container .register{
+    text-align: center;
+    font-size: 15px;
+    margin: 20px 0 15px;
+}
+
+.container .register a{
+    text-decoration: none;
+    font-weight: 600;
+    color: whitesmoke;
+}
+.container .register a:hover{
+    text-decoration: underline;
+}
+.container p.invalid{
+    text-align: center;
+    margin: 15px 0 15px;
+}
