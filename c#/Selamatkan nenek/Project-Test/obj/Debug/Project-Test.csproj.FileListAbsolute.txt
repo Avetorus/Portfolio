@@ -1,0 +1,35 @@
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\bin\Debug\Project-Test.exe.config
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\bin\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\bin\Debug\Project-Test.pdb
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\obj\Debug\Project-Test.csproj.AssemblyReference.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\obj\Debug\Project-Test.csproj.CoreCompileInputs.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\obj\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project Algo\Project-Test\Project-Test\Project-Test\obj\Debug\Project-Test.pdb
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\bin\Debug\Project-Test.exe.config
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\bin\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\bin\Debug\Project-Test.pdb
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\obj\Debug\Project-Test.csproj.AssemblyReference.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\obj\Debug\Project-Test.csproj.CoreCompileInputs.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\obj\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test\Project-Test\obj\Debug\Project-Test.pdb
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe.config
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.pdb
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.AssemblyReference.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.CoreCompileInputs.cache
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.exe
+D:\MyFolder\Semester 2\Algoritme dan Pemrograman\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.pdb
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe.config
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.pdb
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.AssemblyReference.cache
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.CoreCompileInputs.cache
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.exe
+C:\Pelajaran\Kuliah\Sems 2\Algoritme\tugas 1\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.pdb
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe.config
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.exe
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\bin\Debug\Project-Test.pdb
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.AssemblyReference.cache
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.exe
+C:\Users\kelvi\Downloads\Project-Test-Vincent\Project-Test\obj\Debug\Project-Test.pdb
